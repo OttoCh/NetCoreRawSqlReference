@@ -1,0 +1,1 @@
+on nugget manager add MySql.Data
